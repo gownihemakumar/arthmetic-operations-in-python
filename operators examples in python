@@ -1,0 +1,107 @@
+a=50
+b=20
+c=40
+q=(a-b)**2
+print(q)
+Q=(a+b)**2-4*a*b
+print(Q)
+
+
+
+a=50
+b=20
+c=40
+q=(a+b)**2
+print(q)
+Q=(a-b)**2+4*a*b
+print(Q)
+
+
+
+a=50
+b=20
+c=40
+q=(a+b+c)**2
+print(q)
+Q=a**2+b**2+c**2+2*a*b+2*b*c+2*c*a
+print(Q)
+
+
+
+a=50
+b=20
+c=40
+q=a**4+b**4
+print(q)
+Q=((a+b)**2-2*a*b)**2-2*(a*b)**2
+print(Q)
+
+
+a=50
+b=20
+c=40
+q=(a+b-c)**2
+print(q)
+Q=a**2+b**2+c**2+2*a*b-2*b*c-2*c*a
+print(Q)
+
+
+
+a = 50
+b = 20
+c = 40
+q = (a - b - c) ** 2
+print(q)
+Q = a ** 2 + b ** 2 + c ** 2 -2 * a * b +2 * b * c - 2 * c * a
+print(Q)
+
+
+
+
+a = 50
+b = 20
+c = 40
+q=a**3+b**3+c**3-3*a*b*c
+print(q)
+Q=(a+b+c)*(a**2+b**2+c**2-a*b-b*c-c*a)
+print(Q)
+
+
+
+a = 50
+b = 20
+c = 40
+q=a**4+a**2*b**2+b**4
+print(q)
+Q=(a**2+a*b+b**2)*(a**2-a*b+b**2)
+print(Q)
+
+
+
+a = 50
+b = 20
+c = 40
+q=a**4+a**2+1
+print(q)
+Q=(a**2+a+1)*(a**2-a+1)
+print(Q)
+
+
+
+a = 20
+b = 20
+c = -40
+q=a**3+b**3+c**3
+print(q)
+Q=3*a*b*c
+print(Q)
+
+
+
+a = 50
+b = 20
+c = 40
+q=a**8-b**8
+print(q)
+Q=(a**4+b**4)*(a**2+b**2)*(a+b)*(a-b)
+print(Q)
