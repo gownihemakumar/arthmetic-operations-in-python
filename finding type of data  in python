@@ -1,0 +1,6 @@
+x="hemu"
+y=100
+c=1.5
+print(type(x))
+print(type(y))
+print(type(c)
