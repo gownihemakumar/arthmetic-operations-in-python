@@ -1,0 +1,29 @@
+1.
+a="ruchita","hemakumar"
+print("ruchita" in a)
+print("ruchita" not in a)
+2.
+a="hemakumar","sd"
+b="hemakumar","sd"
+c=("raju")
+print(a is not b)
+3.
+a="hemakumar"
+print(a[2:5])
+4.
+a="hemakumar"
+print(a[2:])
+5.
+a="hemakumar"
+print(a[-5:-2])
+6.
+a="hemakumar"
+print(a.upper())
+7.
+a="     hema kumar       "
+print(a.strip())
+8.
+a="ruchita"
+b="hemakumar"
+c=a+b
+print(c)
