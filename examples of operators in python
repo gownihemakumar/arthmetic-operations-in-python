@@ -1,0 +1,48 @@
+1.
+a=5
+if   a>0 and a%2==0:
+    print("number is positive and even")
+else:
+    print("number is negative or odd")
+
+2.
+num=76
+if num%2==0:
+    print("number is divisible by 2")
+elif num%5==0:
+    print("number is divisible by 5")
+else:
+    print(" these are not divisible by 2 and 5")
+
+
+3.
+num=67
+if not(num==0):
+    print("number is not is equal to zero")
+else:
+    print("number is equal to zero")
+
+
+4.
+num=20
+if num>0 and num%3==0:
+    print("number is positive and divisible by 3")
+else:
+    print("number is not positive and divisible by 3")
+
+5.
+a="hemakumar","rocky"
+b="hemakumar","rushi"
+c="hemakumar","rocky"
+print(a ==c)
+print(a is b)
+print( b is c)
+
+6.
+a="ameerpet"
+print(a[-5:-2])
+
+
+7.
+a="hareesh it industry"
+print(a[-5:-2])
